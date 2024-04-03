@@ -10,3 +10,19 @@ Description: this CSS file contains styles for the welcome page of my site.
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    background-color: #EE588F; 
+  }
+
+  .back-button {
+    position: absolute;
+    bottom: 20 px;
+    left: 30px;
+} 
+
+.next-button {
+    position: absolute;
+    bottom: 20 px;
+    right: 30px;
+}
