@@ -1,0 +1,12 @@
+/*
+File: index.css
+Author: Katryna Dionisio
+Description: this CSS file contains styles for the welcome page of my site.
+*/
+
+/* Resetting default margin and padding */
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
